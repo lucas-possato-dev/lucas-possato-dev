@@ -25,4 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-possato-dev&show_icons=true&locale=en&layout=compact" alt="lucas-possato-dev" /></p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-possato-dev&" alt="lucas-possato-dev" /></p> 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-possato-dev&" alt="lucas-possato-dev" /></p> 
