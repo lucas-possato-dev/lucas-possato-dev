@@ -25,4 +25,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-possato-dev&show_icons=true&locale=en&layout=compact" alt="lucas-possato-dev" /></p>
 
 
-<div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-possato-dev&" alt="lucas-possato-dev" /></p> <img align="left" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"></div>
+<div><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucas-possato-dev&" alt="lucas-possato-dev" /></p> <img align="right" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif"></div>
